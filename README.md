@@ -17,7 +17,7 @@
 <br/>
 
 <a href="https://github.com/dcduc168">
-  <img height=180 align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dcduc168&show_icons=true&theme=tokyonight&hide=issues&rank_icon=github&card_width=420" />
+  <img height=180 align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dcduc168&show_icons=true&theme=tokyonight&rank_icon=github&card_width=420" />
 <!-- hide=contribs,prs,issues -->
 </a>
 <a href="https://github.com/dcduc168">
