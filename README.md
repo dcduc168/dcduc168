@@ -22,5 +22,5 @@ https://media1.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif-->
 <!-- hide=contribs,prs,issues -->
 </a>
 <a href="https://github.com/dcduc168">
-  <img height=180 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=dcduc168&show_icons=true&theme=tokyonight&layout=compact&langs_count=8&card_width=280&text_bold=true" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dcduc168&show_icons=true&theme=tokyonight&layout=compact&langs_count=8&card_width=280&text_bold=true" />
 </a>
