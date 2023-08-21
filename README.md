@@ -18,5 +18,5 @@ https://media1.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif-->
 <br/>
 <!-- hide=contribs,prs,issues -->
 
-|  <img height=180 align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dcduc168&show_icons=true&theme=tokyonight&rank_icon=github&card_width=500"> | <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dcduc168&show_icons=true&theme=tokyonight&layout=compact&langs_count=8&card_width=280&text_bold=true"> |
+|  <img height=180 align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dcduc168&show_icons=true&theme=tokyonight&rank_icon=github&card_width=500"> | <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dcduc168&show_icons=true&theme=tokyonight&layout=compact&langs_count=8&card_width=320&text_bold=true"> |
 |:-------------:|:-------------:|
